@@ -101,3 +101,18 @@ Se você estiver usando uma interface de linha de comando (CLI) como o **VBoxMan
  ```
 
 
+## 5. Vantagens e Desvantagens das VMs
+
+### Vantagens:
+- **Isolamento**: Cada VM é isolada, então qualquer problema ou falha em uma VM não afeta as outras ou o sistema hospedeiro.
+- **Flexibilidade**: Você pode rodar diferentes sistemas operacionais e versões de aplicativos.
+- **Eficiência no uso de recursos**: VMs permitem otimizar o uso de hardware, consolidando várias máquinas em um único servidor físico.
+
+### Desvantagens:
+- **Desempenho**: VMs podem ser mais lentas do que máquinas físicas devido à sobrecarga do hypervisor.
+- **Consumo de recursos**: VMs consomem memória e CPU, o que pode ser um problema em máquinas com recursos limitados.
+- **Gerenciamento**: Gerenciar múltiplas VMs pode ser complexo e requer ferramentas adequadas de automação.
+
+---
+
+
